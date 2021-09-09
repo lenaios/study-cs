@@ -1,3 +1,5 @@
+[heap-and-priority-queue](https://www.raywenderlich.com/586-swift-algorithm-club-heap-and-priority-queue-data-structure)
+
 # Heap
 The heap is a tree, and all of the nodes in the tree have 0, 1 or 2 children.  
 Heap은 0, 1, 또는 2개의 자식이 있는 노드들로 구성된 트리이다.
@@ -121,5 +123,3 @@ struct Heap<Element> {
   }
 }
 ```
-
-_refers to_ https://www.raywenderlich.com/586-swift-algorithm-club-heap-and-priority-queue-data-structure  
